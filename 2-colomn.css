@@ -1,0 +1,7 @@
+.generate-columns.grid-50, .grid-sizer.grid-50 {
+    width: 46%;
+    margin: auto;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
